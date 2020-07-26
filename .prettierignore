@@ -1,0 +1,11 @@
+node_modules/
+*.min.js
+*.min.css
+dist/
+build/
+log/
+assets/
+build/
+reports/
+
+

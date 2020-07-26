@@ -1,0 +1,27 @@
+{
+  "name": "filesystemjs",
+  "version": "1.0.0",
+  "description": "Simple file-like persistence in a browser's localStorage",
+  "main": "src/Filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithgabryelski/filesystemjs.git"
+  },
+  "keywords": [
+    "js",
+    "filesystem",
+    "persistent",
+    "store",
+    "file-like",
+    "localstorage"
+  ],
+  "author": "Keith Gabryelski <keith@gabryelski.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithgabryelski/filesystemjs/issues"
+  },
+  "homepage": "https://github.com/keithgabryelski/filesystemjs#readme"
+}
